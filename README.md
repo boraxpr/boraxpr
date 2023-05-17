@@ -1,5 +1,5 @@
 <a href="https://github.com/boraxpr">
-  <img align="center" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api/top-langs/?username=boraxpr&theme=gruvbox&langs_count=7&hide=Python,QML,Jupyter Notebook" />
+  <img align="center" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api/top-langs/?username=boraxpr&theme=gruvbox&langs_count=7&hide=Python,QML" />
 </a>
 <a href="https://github.com/boraxpr">
   <img align="top" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api?username=boraxpr&show_icons=true&theme=tokyonight&include_all_commits=1" />

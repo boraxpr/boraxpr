@@ -1,5 +1,5 @@
 <a href="https://github.com/boraxpr">
-  <img align="center" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api/top-langs/?username=boraxpr&theme=gruvbox&langs_count=20&hide=C#,QML,Jupyter%20Notebook,c%2B%2B,CMake,PowerShell,Makefile,Ruby&exclude_repo=BlackDesertTools,SeniorLibraryWebTest" />
+  <img align="center" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api/top-langs/?username=boraxpr&theme=gruvbox&langs_count=20&hide=QML,Jupyter%20Notebook,c%2B%2B,CMake,PowerShell,Makefile,Ruby&exclude_repo=BlackDesertTools,SeniorLibraryWebTest" />
 </a>
 <a href="https://github.com/boraxpr">
   <img align="top" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api?username=boraxpr&show_icons=true&theme=tokyonight&include_all_commits=1" />

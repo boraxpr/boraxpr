@@ -1,15 +1,106 @@
+<!-- Copyright (c) 2024 Naipawat Poolsawat. All rights reserved. -->
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                @keyframes rotate {
+                @keyframes loading {
                     0% {
-                        transform: rotate(3deg);
+                        content: "\EE00\EE01\EE01\EE01\EE02";
+                    }
+                    5% {
+                        content: "\EE03\EE01\EE01\EE01\EE02";
+                    }
+                    10% {
+                        content: "\EE03\EE04\EE04\EE01\EE02";
+                    }
+                    15% {
+                        content: "\EE03\EE04\EE04\EE04\EE02";
+                    }
+                    20% {
+                        content: "\EE03\EE04\EE04\EE04\EE05";
+                    }
+                    25% {
+                        content: "\EE03\EE04\EE04\EE04\EE05";
+                    }
+                    30% {
+                        content: "b\EE04\EE04\EE05";
+                    }
+                    30% {
+                        content: "bo\EE04\EE05";
+                    }
+                    40% {
+                        content: "bor\EE05";
+                    }
+                    50% {
+                        content: "bora";
                     }
                     100% {
-                        transform: rotate(-3deg);
+                        content: "bora";
                     }
                 }
+                @keyframes ligatures {
+                    0% {
+                        content: "=";
+                    }
+                    5% {
+                        content: "==";
+                    }
+                    10% {
+                        content: "===";
+                    }
+                    15% {
+                        content: "x";
+                    }
+                    20% {
+                        content: "x=";
+                    }
+                    25% {
+                        content: "x==";
+                    }
+                    30% {
+                        content: "x===";
+                    }
+                    35% {
+                        content: "xp";
+                    }
+                    40% {
+                        content: "xp=";
+                    }
+                    45% {
+                        content: "xp==";
+                    }
+                    50% {
+                        content: "xp===";
+                    }
+                    60% {
+                        content: "xpr";
+                    }
+                    100% {
+                        content: "xpr";
+                    }
+                }
+
+                <!-- @keyframes rolling {
+        0%, 100% {
+            content: "\EE06";
+        }
+        16.6666%, 33.3333% {
+            content: "\EE07";
+        }
+        33.3334%, 50% {
+            content: "\EE08";
+        }
+        50.0001%, 66.6667% {
+            content: "\EE09";
+        }
+        66.6668%, 83.3334% {
+            content: "\EE0A";
+        }
+        83.3335% {
+            content: "\EE0B";
+        }
+                } -->
+
 
                 @keyframes gradientBackground {
                     0% {
@@ -23,18 +114,6 @@
                     }
                 }
 
-                @keyframes fadeIn {
-                    0% {
-                        opacity: 0;
-                    }
-                    66% {
-                        opacity: 0;
-                    }
-                    100% {
-                        opacity: 1;
-                    }
-                }
-
                 .container {
                     font-family:
                         system-ui,
@@ -45,6 +124,7 @@
                         Arial,
                         sans-serif,
                         'Apple Color Emoji',
+                        'Fira Code'
                         'Segoe UI Emoji';
                     display: flex;
                     flex-direction: column;
@@ -53,41 +133,52 @@
                     margin: 0;
                     width: 100%;
                     height: 400px;
-                    background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+
+                    background: rgba(0, 0, 0, 1);
+                    border-radius: 16px;
+                    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+                    backdrop-filter: blur(15px);
+                    -webkit-backdrop-filter: blur(15px);
                     background-size: 600% 400%;
-                    animation: gradientBackground 10s ease infinite;
                     border-radius: 10px;
                     color: white;
                     text-align: center;
+                    white-space: nowrap;
+                }
+                p:before {
+                font-size: 100px;
+                font-family: 'Fira Code';
+                margin: 0;
+                padding: 0;
+                text-shadow: 
+                    0 1px 0 #FFFFFF,
+                    0 2px 0 #FFFFFF,
+                    0 3px 0 #FFFFFF,
+                    0 4px 0 #FFFFFF,
+                    0 8px 12px rgba(255, 255, 255, 1);
+                    content:'';
+                    animation: loading 4s infinite;
+                }
+                h1:before {
+                font-size: 100px;
+                font-family: 'Fira Code';
+                margin: 0;
+                padding: 0;
+                text-shadow: 
+                    0 1px 0 #FFFFFF,
+                    0 2px 0 #FFFFFF,
+                    0 3px 0 #FFFFFF,
+                    0 4px 0 #FFFFFF,
+                    0 8px 12px rgba(255, 255, 255, 1);
+                    content:'';
+                    animation: ligatures 3s infinite;
                 }
 
-                h1 {
-                    font-size: 50px;
-                    line-height: 1.3;
-                    letter-spacing: 5px;
-                    text-transform: uppercase;
-                    text-shadow:
-                        0 1px 0 #efefef,
-                        0 2px 0 #efefef,
-                        0 3px 0 #efefef,
-                        0 4px 0 #efefef,
-                        0 12px 5px rgba(0, 0, 0, 0.1);
-                    animation: rotate ease-in-out 1s infinite alternate;
-                }
 
-                p {
-                    font-size: 20px;
-                    text-shadow: 0 1px 0 #efefef;
-                    animation: 5s ease 0s normal forwards 1 fadeIn;
-                }
-
-                .name {
-                    font-size: 30px;
-                    margin-top: 20px;
-                }
             </style>
             <div class="container">
-                <h1>boraxpr</h1>
+               <p></p>
+               <h1></h1>
             </div>
         </div>
     </foreignObject>

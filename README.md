@@ -1,12 +1,7 @@
-
-<div align="center">
- 
- <br>
- <a href="./header.svg">
+<a href="./header.svg">
   <img align="center" src="header.svg" alt="Click to see the source">
  </a>
  <br>
-</div>
 <a href="https://github.com/boraxpr">
   <img align="top" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api?username=boraxpr&show_icons=true&theme=tokyonight&include_all_commits=1" />
 </a>

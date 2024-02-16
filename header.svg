@@ -87,9 +87,7 @@
                 }
             </style>
             <div class="container">
-                <h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-                <p>Click to see the source</p>
-                <div class="name">boraxpr</div>
+                <h1>boraxpr</h1>
             </div>
         </div>
     </foreignObject>

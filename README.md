@@ -1,7 +1,10 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 <div align="center">
  <br>
  <a href="./header.svg">
-  <img src="header.svg" width="800" height="400" alt="Click to see the source">
+  <img src="header.svg" width="400" height="400" alt="Click to see the source">
  </a>
  <br>
 </div>

@@ -1,6 +1,7 @@
 <a href="./header.svg">
-  <img align="left" src="header.svg" alt="Click to see the source">
+  <img align="center" src="header.svg" alt="Click to see the source">
  </a>
+
  <br>
 <a href="https://github.com/boraxpr">
   <img align="top" src="https://github-readme-stats-rngvaw91h-boraxpr.vercel.app/api?username=boraxpr&show_icons=true&theme=tokyonight&include_all_commits=1" />

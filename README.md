@@ -1,5 +1,5 @@
 <a href="./header.svg">
-  <img align="center" src="header.svg" alt="Click to see the source">
+  <img src="header.svg" alt="Click to see the source">
  </a>
 
  <br>

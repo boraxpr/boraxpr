@@ -136,7 +136,7 @@
                     align-items: center;
                     justify-content: center;
                     margin: 0;
-                    width: 100%;
+                    width: 400px;
                     height: 400px;
 
                     background: rgba(0, 0, 0, 1);
@@ -151,7 +151,7 @@
                     white-space: nowrap;
                 }
                 p:before {
-                font-size: 100px;
+                font-size: 50px;
                 font-family: 'Fira Code', 'MyCustomFont';
                 margin: 0;
                 padding: 0;
@@ -165,7 +165,7 @@
                     animation: loading 4s infinite;
                 }
                 h1:before {
-                font-size: 100px;
+                font-size: 50px;
                 font-family: 'Fira Code','MyCustomFont';
                 margin: 0;
                 padding: 0;

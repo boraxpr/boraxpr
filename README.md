@@ -1,4 +1,4 @@
-<a href="./header.svg">
+<a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
  </a>
 

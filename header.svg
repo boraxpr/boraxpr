@@ -28,19 +28,19 @@
                         content: "\EE0B\EE03\EE04\EE04\EE05";
                     }
                     30% {
-                        content: "b\EE04\EE04\EE04\EE05";
+                        content: "\EE06 b\EE04\EE04\EE04\EE05";
                     }
                     30% {
-                        content: "bo\EE04\EE05";
+                        content: "\EE07 bo\EE04\EE05";
                     }
                     40% {
-                        content: "bor\EE05";
+                        content: "\EE08 bor\EE05";
                     }
                     50% {
-                        content: "bora";
+                        content: "\EE09 bora";
                     }
                     100% {
-                        content: "bora";
+                        content: "\EE0B bora";
                     }
                 }
                 @keyframes ligatures {

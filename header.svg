@@ -10,25 +10,25 @@
             }
                 @keyframes loading {
                     0% {
-                        content: "\EE00\EE01\EE01\EE01\EE02";
+                        content: "\EE06\EE00\EE01\EE01\EE02";
                     }
                     5% {
-                        content: "\EE03\EE01\EE01\EE01\EE02";
+                        content: "\EE07\EE03\EE01\EE01\EE02";
                     }
                     10% {
-                        content: "\EE03\EE04\EE04\EE01\EE02";
+                        content: "\EE08\EE03\EE04\EE04\EE02";
                     }
                     15% {
-                        content: "\EE03\EE04\EE04\EE04\EE02";
+                        content: "\EE09\EE03\EE04\EE04\EE02";
                     }
                     20% {
-                        content: "\EE03\EE04\EE04\EE04\EE05";
+                        content: "\EE0A\EE03\EE04\EE04\EE05";
                     }
                     25% {
-                        content: "\EE03\EE04\EE04\EE04\EE05";
+                        content: "\EE0B\EE03\EE04\EE04\EE05";
                     }
                     30% {
-                        content: "b\EE04\EE04\EE05";
+                        content: "b\EE04\EE04\EE04\EE05";
                     }
                     30% {
                         content: "bo\EE04\EE05";

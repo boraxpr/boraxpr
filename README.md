@@ -1,6 +1,12 @@
 <a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
  </a>
+ 
+> Bora is from Campagnolo Bora one.
+<br><sup> It's an expensive Roadbike wheel that I wished I have in my Highschool. I got Campagnolo Scirocco but I thought that the name is on a feminine side for a name</sup><br>
+Xpr is Cross-Polarization Ratio from antenna engineering. <sub>At the time, I was interested in Computer Network course at MUICT.</sub><br>
+<sup>Cross-Polarization Ratio indicates how much energy is radiated in **unintended** polarization.</sup><br>
+<sup>Xpr is a concept that is parallel to my personality and who I am as a person. <br>My thoughts tend to be creative and leads to unconventional, unintended ideas or insights.</sup>
 
  <br>
 <a href="https://github.com/boraxpr">

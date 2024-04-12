@@ -1,9 +1,6 @@
 <a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
  </a>
- <a href="https://github.com/boraxpr">
-     <img src="Sprite-circle.gif" alt="Click to see the source">
- </a>
  
 > Bora is from Campagnolo Bora one.
 <br><sup> It's an expensive Roadbike wheel that I wished I have in my Highschool. I got Campagnolo Scirocco but I thought that the name is on a feminine side for a name</sup><br>

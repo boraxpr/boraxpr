@@ -2,7 +2,7 @@
   <img src="header.svg" alt="Click to see the source">
  </a>
  
- ### Motto : Programming language, Operating System calls Memory.
+ ### Motto : Programming language, Operating System calls, Memory.
 > Bora is from Campagnolo Bora one.
 <br><sup> It's an expensive Roadbike wheel that I wished I have in my Highschool. I got Campagnolo Scirocco but I thought that the name is on a feminine side for a name</sup><br>
 Xpr is Cross-Polarization Ratio from antenna engineering. <sub>At the time, I was interested in Computer Network course at MUICT.</sub><br>

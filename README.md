@@ -1,6 +1,7 @@
 <a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
  </a>
+<a href="https://gitroll.io/profile/uCjKzuhMhDJSnssq6W5sWkJFPMsz1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCjKzuhMhDJSnssq6W5sWkJFPMsz1" alt="GitRoll Profile Badge"/></a>
  
  ### Motto : Programming language, Operating System calls, Memory.
 > Bora is from Campagnolo Bora one.

@@ -1,6 +1,6 @@
-<a href="https://gitroll.io/profile/uCjKzuhMhDJSnssq6W5sWkJFPMsz1" target="_blank">
+<!--- <a href="https://gitroll.io/profile/uCjKzuhMhDJSnssq6W5sWkJFPMsz1" target="_blank">
   <img src="https://gitroll.io/api/badges/profiles/v1/uCjKzuhMhDJSnssq6W5sWkJFPMsz1" alt="GitRoll Profile Badge"/></a>
- 
+ -->
  ### Motto : Programming language, Operating System calls, Memory.
 
  <a href="https://github.com/boraxpr">

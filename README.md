@@ -71,7 +71,6 @@
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 > 🧠 Deep SQL: Stored procedures, CTEs, data modeling, and transactional integrity.  
-> Prefer raw SQL over ORMs when clarity, performance, or control matters.  
 </details>
 
 <details>

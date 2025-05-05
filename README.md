@@ -8,14 +8,6 @@
   <img src="header.svg" alt="Click to see the source">
 </a>
 
-> Bora is from Campagnolo Bora one.  
-<sup>It's an expensive Roadbike wheel that I wished I had in my Highschool. I got Campagnolo Scirocco but I thought the name is on a feminine side for a name.</sup>  
-Xpr is Cross-Polarization Ratio from antenna engineering.  
-<sub>At the time, I was interested in Computer Network course at MUICT.</sub>  
-<sup>Cross-Polarization Ratio indicates how much energy is radiated in **unintended** polarization.</sup>  
-<sup>Xpr is a concept that is parallel to my personality and who I am as a person.  
-My thoughts tend to be creative and lead to unconventional, unintended ideas or insights.</sup>
-
 ---
 
 ### 📊 GitHub Stats
@@ -140,5 +132,17 @@ My thoughts tend to be creative and lead to unconventional, unintended ideas or 
 > I challenge unnecessary abstraction, framework-driven complexity, and bloated conventions.  
 > I simplify only when I understand the cost — otherwise, it's just hiding complexity behind magic.  
 > Agile works best with clear direction — flexibility shouldn't come at the cost of coherence.  
-> I don’t ship junk and run — I write code I’ll stand behind.  
+> I don’t ship junk and run — I write code I’ll stand behind.
+
+<details>
+<summary>🌀 Origin of 'boraxpr'</summary>
+
+**Bora** is from *Campagnolo Bora One*, a high-end roadbike wheel I dreamed of owning in high school.  
+I ended up with *Campagnolo Scirocco*, but found its name a bit too soft-sounding for a personal alias.
+
+**Xpr** stands for *Cross-Polarization Ratio*, a concept from antenna engineering I encountered while studying networks at MUICT.  
+It refers to how much energy is radiated in unintended polarization — an idea that parallels how my mind works:  
+creative, sometimes unconventional, but always grounded in signal.
+
+</details>
 

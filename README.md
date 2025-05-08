@@ -119,7 +119,7 @@
 <summary>🐧 Linux & Terminal Setup</summary>
 
 ![Fedora](https://img.shields.io/badge/Linux-Fedora-51A2DA?logo=fedora&logoColor=white)  
-![GNOME](https://img.shields.io/badge/Desktop-GNOME-4A86CF?logo=gnome&logoColor=white)  
+![KDE](https://img.shields.io/badge/Desktop-KDE-1C99D6?logo=kde&logoColor=white)  
 ![Hyper](https://img.shields.io/badge/Terminal-Hyper-000000?logo=hyper&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)  
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-89e051?logo=gnu-bash&logoColor=black)  

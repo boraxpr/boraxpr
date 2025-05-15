@@ -105,7 +105,6 @@
 
 ![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-00A67E?logo=openai&logoColor=white)  
 ![Claude](https://img.shields.io/badge/AI-Claude-FFD700?logo=anthropic&logoColor=black)  
-![OmniTool](https://img.shields.io/badge/Agentic-OmniTool-6528F7?logo=googleassistant&logoColor=white)  
 ![OutSystems](https://img.shields.io/badge/LowCode-OutSystems-CC0000?logo=outsystems&logoColor=white)
 
 </details>

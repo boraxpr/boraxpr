@@ -1,4 +1,3 @@
-### Motto : Programming language, Operating System calls, Memory.
 <a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
 </a>

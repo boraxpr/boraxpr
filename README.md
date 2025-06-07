@@ -2,13 +2,6 @@
   <img src="header.svg" alt="Click to see the source">
 </a>
 
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/boraxpr">
-  <img align="top" src="https://github-readme-stats-m5lmz0gqb-boraxpr.vercel.app/api?username=boraxpr&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</a>
 
 ---
 

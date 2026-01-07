@@ -5,13 +5,15 @@
 
 ---
 
-
+<details>
 <summary>🧭 Programming Paradigms</summary>
 
 ![Object-Oriented](https://img.shields.io/badge/OOP%20(Done%20Right)-blueviolet)
 ![Functional](https://img.shields.io/badge/Practical%20Functional-7CFC00)
 ![Declarative](https://img.shields.io/badge/Declarative-40C4FF)
+</details>
 
+<details>
 <summary>💻 Languages</summary>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -20,9 +22,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-
+</details>
+<details>
 <summary>📚 Frameworks & Libraries</summary>
-
+  
 **Web & Frontend**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
@@ -31,26 +34,27 @@
 ![UmiJS](https://img.shields.io/badge/UmiJS-FE0C75?logo=antdesign&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
+  
 **Backend & APIs**  
 ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![JHipster](https://img.shields.io/badge/JHipster-0052CC?logo=jhipster&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white)
 ![Chi](https://img.shields.io/badge/Chi-00ADD8?logo=go&logoColor=white)
-> Prefer explicit logic and SQL clarity over framework magic or blind ORM usage.
 
-**Fullstack MVC**
-![JHipster](https://img.shields.io/badge/.Net-512BD4?logo=.net&logoColor=white)
+
+**Fullstack MVC(will charge extra in all scenarios)**  
+![dotNet](https://img.shields.io/badge/.Net-512BD4?logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-
+</details>
+<details>
 <summary>🗄️ Databases </summary>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-
-> 🧠 Deep SQL: Stored procedures, CTEs, data modeling, and transactional integrity.  
+</details>
 
 <summary>⚙️ DevOps & Integration</summary>
 
@@ -85,12 +89,15 @@
 ![Firebase](https://img.shields.io/badge/Platform-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Platform-Supabase-3ECF8E?logo=supabase&logoColor=white)
 
+<details>
+
 <summary>🧠 AI & Low-Code</summary>
 
 ![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-00A67E?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/AI-Claude-FFD700?logo=anthropic&logoColor=black)
 ![OutSystems](https://img.shields.io/badge/LowCode-OutSystems-CC0000?logo=outsystems&logoColor=white)
 
+</details>
 <summary>🐧 Linux & Terminal Setup</summary>
 
 ![Fedora](https://img.shields.io/badge/Linux-Fedora-51A2DA?logo=fedora&logoColor=white)  
@@ -103,10 +110,7 @@
 </details>
 
 ### 🧠 Engineering Mindset  
-> I challenge unnecessary abstraction, framework-driven complexity, and bloated conventions.  
-> I simplify only when I understand the cost — otherwise, it's just hiding complexity behind magic.  
-> Agile works best with clear direction — flexibility shouldn't come at the cost of coherence.  
-> I don’t ship junk and run — I write code I’ll stand behind.
+> I value clarity, ownership, and systems that age well.
 
 <details>
 <summary>🌀 Origin of 'boraxpr'</summary>

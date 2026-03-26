@@ -5,9 +5,9 @@
 
 > "I value clarity, ownership, and systems that age well."
 
-🧩 The Philosophy: Problem-First, Tool-Agnostic<br>
-**Logic Over Syntax:** Real-world software problems aren't "copy-pastable." I focus on the fundamental understanding that connects the dots - From Kubernetes YAML to CPU bottlenecks. From Linux images down to systemd. From database architecture to backend logic, From javascript/HTML/CSS/Client Storage up to the CDN and reversed-proxy<br>
-**Adaptive Toolkit:** I treat languages and frameworks as **instruments, not identities.** I am willing to master any tool required to solve the specific constraints of a problem.<br>
+🧩 The Philosophy: Problem-First, Tool-Agnostic<br><br>
+**Logic Over Syntax:** Real-world software problems aren't copy-pastable, easily ai-generateable. I focus on the fundamental understanding that connects the dots. From Kubernetes YAML to CPU bottlenecks. From Linux images down to systemd. From database architecture to backend logic, From javascript/HTML/CSS/Client Storage up to the CDN and reversed-proxy<br><br>
+**Adaptive Toolkit:** I treat languages and frameworks as **instruments, not identities.** I am willing to master any tool required to solve the specific constraints of a problem.<br><br>
 
 ### 🧠 Engineering Mindset  
 > I value clarity, ownership, and systems that age well.

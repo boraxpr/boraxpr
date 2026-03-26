@@ -1,12 +1,21 @@
 <a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
-</a>
+</a><br>
+🧭 Engineering for Reality
 
+> "I value clarity, ownership, and systems that age well."
+
+🧩 The Philosophy: Problem-First, Tool-Agnostic<br>
+**Logic Over Syntax:** Real-world software problems aren't "copy-pastable." I focus on the fundamental understanding that connects the dots - From Kubernetes YAML to CPU bottlenecks. From Linux images down to systemd. From database architecture to backend logic, From javascript/HTML/CSS/Client Storage up to the CDN and reversed-proxy<br>
+**Adaptive Toolkit:** I treat languages and frameworks as **instruments, not identities.** I am willing to master any tool required to solve the specific constraints of a problem.<br>
+
+### 🧠 Engineering Mindset  
+> I value clarity, ownership, and systems that age well.
 
 ---
 
 <details>
-<summary>🧭 Programming Paradigms</summary>
+<summary> Programming Paradigms</summary>
 
 ![Object-Oriented](https://img.shields.io/badge/OOP%20(Done%20Right)-blueviolet)
 ![Functional](https://img.shields.io/badge/Practical%20Functional-7CFC00)
@@ -112,9 +121,6 @@
 ![Starship](https://img.shields.io/badge/Prompt-Starship-DD0B78?logo=starship&logoColor=white)  
 
 </details>
-
-### 🧠 Engineering Mindset  
-> I value clarity, ownership, and systems that age well.
 
 <details>
 <summary>🌀 Origin of 'boraxpr'</summary>

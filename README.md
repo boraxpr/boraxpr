@@ -13,9 +13,6 @@
 
 **Adaptive Toolkit:** I treat languages and frameworks as **instruments, not identities.** I am willing to master any tool required to solve the specific constraints of a problem.
 
-### 🧠 Engineering Mindset  
-> I value clarity, ownership, and systems that age well.
-
 ---
 
 <details>

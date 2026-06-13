@@ -1,129 +1,15 @@
 <a href="https://github.com/boraxpr">
   <img src="header.svg" alt="Click to see the source">
 </a><br>
-🧭 Engineering for Reality
-
-> "I value clarity, ownership, and systems that age well."
-
-🧩 The Philosophy: Problem-First, Tool-Agnostic
-
-**Logic Over Syntax:** Real-world software problems aren't copy-pastable, easily ai-generateable. I focus on the fundamental understanding that connects the dots. From Kubernetes YAML to CPU bottlenecks. From Linux images down to systemd. From database architecture to backend logic, From javascript/HTML/CSS/Client Storage up to the CDN and reversed-proxy.
-
-> "Can I build a 'usable app'? Yes. But delivering basic CRUD is a waste of the system's potential. I thrive where complexity starts — at the intersection of scale, resilience, and architectural integrity."
-
-**Adaptive Toolkit:** I treat languages and frameworks as **instruments, not identities.** I am willing to master any tool required to solve the specific constraints of a problem.
+I am driven by a fundamental need to understand how things work under the hood. I don’t like leaving unknowns on the table. If a technology exists in my orbit, I feel compelled to understand how it works. This curiosity is what allows me to connect the dots across the entire stack, from raw requirements to production reliability. Not a template user, tutorial follower – I hands-on setup, configure, deep integrate. I can setup project myself on multiple stacks. I know what each part does on each ecosystem for example; DI Containers behavior across multiple ecosystems or lack thereof – Java Spring Boot has DI container while NestJS tries to replicate that because NodeJS has none so it’s module pattern, webserver behind each stack for example Java ecosystem uses Tomcat, while node/go/rust uses its embedded server inside itself. Endpoint Validation how multiple frameworks have their own tooling of catching body, header, query. How different ecosystems use different ways to handle concurrency: NodeJS – Event Loop, Golang – Goroutine, Rust – Low level 3rd party Tokio. How each ecosystem connects to database; Java Spring Boot has autoconfiguration where you just put the config on properties and it auto creates the object (bean) for you while in NodeJS, Go, Rust you manage this by mostly using singleton pattern. I know the best practice like connection pool instead of starting the connection on every endpoint calls. I know tuning like connection pool number tuning to match database pricing tier. And probably more, that’s why I differentiate myself from other devs-engineers you might see on the market. I actually understand the why behind the code so I confidently claim that can solve problem most engineers from Thai market can’t.  
+-	Understand Business not only tech. I tailor solution to fit business needs and constraint.
+-	Stance on AI. I use AI hands-on to do complex tasks every day. So, I know its limitation and way to work with AI.
+-	Recent Highlight: Rescued and stabilized an initially unreliable internal LLM platform—scaling the infrastructure to comfortably support 1,000+ DAU and 5,000+ registered users—while successfully navigating complex stakeholder dynamics and resetting volatile project expectations.
 
 ---
 
-<details>
-<summary> Programming Paradigms</summary>
+<img width="1171" height="937" alt="image" src="https://github.com/user-attachments/assets/66171ac9-1c4d-4bd8-a09e-5b4befd4e770" />
 
-![Object-Oriented](https://img.shields.io/badge/OOP%20(Done%20Right)-blueviolet)
-![Functional](https://img.shields.io/badge/Practical%20Functional-7CFC00)
-![Declarative](https://img.shields.io/badge/Declarative-40C4FF)
-</details>
-
-<details>
-<summary>💻 Languages</summary>
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-</details>
-<details>
-<summary>📚 Frameworks & Libraries</summary>
-  
-**Web & Frontend**  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
-![UmiJS](https://img.shields.io/badge/UmiJS-FE0C75?logo=antdesign&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-  
-**Backend & APIs**  
-![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![JHipster](https://img.shields.io/badge/JHipster-0052CC?logo=jhipster&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white)
-![Chi](https://img.shields.io/badge/Chi-00ADD8?logo=go&logoColor=white)
-
-
-**Fullstack MVC(will charge extra in all scenarios)**  
-![dotNet](https://img.shields.io/badge/.Net-512BD4?logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-</details>
-<details>
-<summary>🗄️ Databases </summary>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-</details>
-
-<summary>⚙️ DevOps & Integration</summary>
-
-![nginx](https://img.shields.io/badge/ReverseProxy-nginx-009639?logo=nginx&logoColor=fff)  
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/CI/CD-GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Portainer](https://img.shields.io/badge/ContainerViewer-Portainer-13BEF9?logo=portainer&logoColor=white)  
-![Apache Airflow](https://img.shields.io/badge/ETL-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/DataViz-Apache%20Superset-292929?logo=apache&logoColor=white)
-
-<summary>📊 Monitoring & Observability</summary>
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff)  
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Metrics-Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Tempo](https://img.shields.io/badge/Traces-Tempo-E6522C?logo=tempo&logoColor=white)
-![Alloy](https://img.shields.io/badge/Collector-Alloy-E6522C?logo=alloy&logoColor=white)
-![Loki](https://img.shields.io/badge/Logs-Loki-E6522C?logo=loki&logoColor=white)  
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white)
-
-
-
-<summary>☁️ Cloud & Deployment</summary>
-
-![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Platform-Vercel-000000?logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Platform-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Platform-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Platform-Supabase-3ECF8E?logo=supabase&logoColor=white)
-
-<details>
-
-<summary>🧠 AI & Low-Code</summary>
-
-![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-00A67E?logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/AI-Claude-FFD700?logo=anthropic&logoColor=black)
-![OutSystems](https://img.shields.io/badge/LowCode-OutSystems-CC0000?logo=outsystems&logoColor=white)
-
-</details>
-<summary>🐧 Linux & Terminal Setup</summary>
-
-![Fedora](https://img.shields.io/badge/Linux-Fedora-51A2DA?logo=fedora&logoColor=white)  
-![KDE](https://img.shields.io/badge/Desktop-KDE-1D99F3?logo=kdeplasma&logoColor=white)  
-![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Shell-Zsh-89e051?logo=gnu-bash&logoColor=black)
-![Hyper](https://img.shields.io/badge/Terminal-Hyper-000000?logo=hyper&logoColor=white)
-![Starship](https://img.shields.io/badge/Prompt-Starship-DD0B78?logo=starship&logoColor=white)  
-
-</details>
-
-<details>
 <summary>🌀 Origin of 'boraxpr'</summary>
 
 **Bora** is from *Campagnolo Bora One*, a high-end roadbike wheel I dreamed of owning in high school.  

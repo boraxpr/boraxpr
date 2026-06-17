@@ -7,7 +7,7 @@
 
 🧩 The Philosophy: Problem-First, Tool-Agnostic
 
-**Logic Over Syntax:** Real-world software problems aren't copy-pastable, easily ai-generateable. I focus on the fundamental understanding that connects the dots. From Kubernetes YAML to CPU bottlenecks. From Linux images down to systemd. From database architecture to backend logic, From javascript/HTML/CSS/Client Storage up to the CDN and reversed-proxy.
+**Logic Over Syntax:** Real-world software problems aren't copy-pastable, easily ai-generateable. I focus on the fundamental understanding that connects the dots. From Kubernetes YAML to CPU bottlenecks. From Linux images down to systemd. From database architecture to backend logic, From javascript/HTML/CSS/Client Storage up to the CDN and reverse proxy.
 
 > "Can I build a 'usable app'? Yes. But delivering basic CRUD is a waste of the system's potential. I thrive where complexity starts — at the intersection of scale, resilience, and architectural integrity."
 

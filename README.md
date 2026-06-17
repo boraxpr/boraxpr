@@ -15,7 +15,7 @@
 
 ---
 
-<img width="1171" height="937" alt="image" src="https://github.com/user-attachments/assets/66171ac9-1c4d-4bd8-a09e-5b4befd4e770" />
+<img width="1171" height="951" alt="image" src="https://github.com/user-attachments/assets/8db7a7f1-39d0-4f6d-8025-c379a69a3ba9" />
 
 <summary>🌀 Origin of 'boraxpr'</summary>
 
